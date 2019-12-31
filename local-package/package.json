@@ -1,0 +1,11 @@
+{
+  "name": "local-package",
+  "version": "1.0.0",
+  "description": "A local package which does nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reinfer.io",
+  "license": "ISC"
+}

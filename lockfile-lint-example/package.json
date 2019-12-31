@@ -1,0 +1,14 @@
+{
+  "name": "lockfile-lint-example",
+  "version": "1.0.0",
+  "description": "Example to demonstrate lockfile-lint errors for local filesystem packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reinfer.io",
+  "license": "ISC",
+  "dependencies": {
+    "local-package": "../local-package"
+  }
+}
